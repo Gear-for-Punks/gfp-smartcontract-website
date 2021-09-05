@@ -1,6 +1,6 @@
 # Gear (for Punks) ERC721 Smartcontract + Website
 
-** 🚨 This repo auto-deploys the `main` branch of `frontend/*` to www.gearforpunks.com via netlify so please be mindful of this!!!**
+**🚨 This repo auto-deploys the `main` branch of `frontend/*` to www.gearforpunks.com via netlify so please be mindful of this!!!**
 
 Ethereum erc721 derivative of GEAR but for futuristic punks that uses the following tools:
 
