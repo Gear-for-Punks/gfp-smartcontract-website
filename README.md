@@ -2,7 +2,7 @@
 
 *This repo auto-deploys the `main` branch of `frontend/*` to www.gearforpunks.com via netlify so please be mindful of this!!!*
 
-Ethereum erc721 derivative of GEAR but for futuristiv punks that uses the following tools:
+Ethereum erc721 derivative of GEAR but for futuristic punks that uses the following tools:
 
 - Hardhat
 - Waffle
