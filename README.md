@@ -1,4 +1,4 @@
-# Gear for Punks ERC721 Smartcontract + Website
+# Gear (for Punks) ERC721 Smartcontract + Website
 
 *This repo Auto-deploys the `main` branch of `frontend/*` to www.gearforpunks.com via netlify so please be mindful of this!!!*
 
