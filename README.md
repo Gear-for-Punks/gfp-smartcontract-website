@@ -1,6 +1,6 @@
 # Gear (for Punks) ERC721 Smartcontract + Website
 
-*This repo auto-deploys the `main` branch of `frontend/*` to www.gearforpunks.com via netlify so please be mindful of this!!!*
+** 🚨 This repo auto-deploys the `main` branch of `frontend/*` to www.gearforpunks.com via netlify so please be mindful of this!!!**
 
 Ethereum erc721 derivative of GEAR but for futuristic punks that uses the following tools:
 
@@ -111,4 +111,4 @@ Merger team will vote to approve submitted changes if PR passes merge checks
 ## Credits
 - This was started with a temple from  @remote-gildor [hardhat-vue-starter](https://github.com/remote-gildor/hardhat-vue-starter)
 - @dhof Loot's solidity smartcontract on Etherscan.io
-- Gear Mafia (Discord usernames): @cyberghost, @null_hax, @iuvenis, @Doodles
+- Gear Mafia (Discord usernames): @cyberghost#6385, @null_hax#1337, @iuvenis#0018, @Doodles#5004
