@@ -2,6 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 import Home from "./pages/Home";
 import Stats from "./pages/Stats";
+import Resources from "./pages/Resources";
 
 Vue.use(Router);
 
@@ -21,6 +22,11 @@ export default new Router({
             name: "stats",
             component: Stats
         },
+        {
+            path: "/resources",
+            name: "resources",
+            component: Resources
+        }
     ],
     linkActiveClass: "active"
 });

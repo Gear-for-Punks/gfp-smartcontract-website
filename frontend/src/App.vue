@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-primary">
+  <div>
 
     <!-- <Navbar /> -->
 

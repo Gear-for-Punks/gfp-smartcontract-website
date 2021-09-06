@@ -1,6 +1,7 @@
 <template>
   <div class="flex h-screen justify-center text-white items-center text-gray-50">
     <div class="m-auto">
+      <a class="absolute top-5 right-5" href="/resources">Resources</a>
       <h1 class="text-6xl pb-8">Gear</h1>
       
 
@@ -22,14 +23,6 @@
       </div>
       <div class="mb-4">
         All Gear has been claimed, check out <a class="font-bold underline hover:text-blue-800 hover:cursor-pointer" target="_blank" href="https://opensea.io/collection/gear-for-punks">OpenSea</a> to get some second-hand Gear ⚙️
-        <div class="mb-4 mt-2 mx-auto">
-          
-          <h1 class="font-bold py-2">Resources for Gear owners</h1>
-          <ul class="">
-            <li class="py-2"> <a target="_blank" class="font-bold underline text-green-600 hover:text-blue-800 hover:cursor-pointer" href="https://www.gearforpunks.app/">gearforpunks.app (Gear Rarity Wallet Checker)</a></li>
-            <li class="py-2"> <a target="_blank" class="font-bold underline text-green-600 hover:text-blue-800 hover:cursor-pointer" href="https://docs.google.com/spreadsheets/d/1FrV0dLD4LxphhjCJ8qJ3H9Q05wrEdoVvgfleVfHT00E/edit#gid=0">Gear Rarity Lookup (Google Doc by Toomaie)</a></li>
-          </ul>
-        </div>
       </div>
       
       <div v-if="isUserConnected">
